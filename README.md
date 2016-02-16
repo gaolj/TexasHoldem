@@ -1,3 +1,5 @@
+高效的手牌强度计算
+
 TexasHoldem (AvengerHoldem)
 ===========================
 
